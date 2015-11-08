@@ -1,0 +1,1244 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "so", 
+                            1.0, 
+                            1.27
+                        ]
+                    ], 
+                    "transcript": "so "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.53
+                        ]
+                    ], 
+                    "transcript": "several "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "torn", 
+                            1.52, 
+                            1.79
+                        ]
+                    ], 
+                    "transcript": "several torn "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornado", 
+                            1.52, 
+                            2.03
+                        ]
+                    ], 
+                    "transcript": "several tornado "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "to", 
+                            2.15, 
+                            2.29
+                        ]
+                    ], 
+                    "transcript": "several tornadoes to "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touched", 
+                            2.15, 
+                            2.55
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touched "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "law", 
+                            2.99, 
+                            3.07
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a law "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.31
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "so", 
+                            3.4, 
+                            3.57
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of so "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.83
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.88
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.56
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.51
+                        ], 
+                        [
+                            "swept", 
+                            4.51, 
+                            4.85
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.51
+                        ], 
+                        [
+                            "swept", 
+                            4.51, 
+                            4.79
+                        ], 
+                        [
+                            "through", 
+                            4.79, 
+                            4.94
+                        ], 
+                        [
+                            "co", 
+                            4.94, 
+                            5.11
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through co "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.51
+                        ], 
+                        [
+                            "swept", 
+                            4.51, 
+                            4.79
+                        ], 
+                        [
+                            "through", 
+                            4.79, 
+                            4.94
+                        ], 
+                        [
+                            "cholera", 
+                            4.94, 
+                            5.37
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through cholera "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.51
+                        ], 
+                        [
+                            "swept", 
+                            4.51, 
+                            4.79
+                        ], 
+                        [
+                            "through", 
+                            4.79, 
+                            4.94
+                        ], 
+                        [
+                            "Colorado", 
+                            4.94, 
+                            5.63
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.51
+                        ], 
+                        [
+                            "swept", 
+                            4.51, 
+                            4.79
+                        ], 
+                        [
+                            "through", 
+                            4.79, 
+                            4.94
+                        ], 
+                        [
+                            "Colorado", 
+                            4.94, 
+                            5.57
+                        ], 
+                        [
+                            "once", 
+                            5.57, 
+                            5.87
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado once "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.51
+                        ], 
+                        [
+                            "swept", 
+                            4.51, 
+                            4.79
+                        ], 
+                        [
+                            "through", 
+                            4.79, 
+                            4.94
+                        ], 
+                        [
+                            "Colorado", 
+                            4.94, 
+                            5.63
+                        ], 
+                        [
+                            "and", 
+                            5.63, 
+                            5.78
+                        ], 
+                        [
+                            "Sunday", 
+                            5.78, 
+                            6.13
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado and Sunday "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.51
+                        ], 
+                        [
+                            "swept", 
+                            4.51, 
+                            4.79
+                        ], 
+                        [
+                            "through", 
+                            4.79, 
+                            4.94
+                        ], 
+                        [
+                            "Colorado", 
+                            4.94, 
+                            5.62
+                        ], 
+                        [
+                            "on", 
+                            5.62, 
+                            5.74
+                        ], 
+                        [
+                            "Sunday", 
+                            5.74, 
+                            6.33
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado on Sunday "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.8874180912971497, 
+                    "timestamps": [
+                        [
+                            "several", 
+                            1.0, 
+                            1.52
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.52, 
+                            2.15
+                        ], 
+                        [
+                            "touch", 
+                            2.15, 
+                            2.5
+                        ], 
+                        [
+                            "down", 
+                            2.5, 
+                            2.81
+                        ], 
+                        [
+                            "as", 
+                            2.81, 
+                            2.93
+                        ], 
+                        [
+                            "a", 
+                            2.93, 
+                            2.99
+                        ], 
+                        [
+                            "line", 
+                            2.99, 
+                            3.29
+                        ], 
+                        [
+                            "of", 
+                            3.29, 
+                            3.4
+                        ], 
+                        [
+                            "severe", 
+                            3.4, 
+                            3.77
+                        ], 
+                        [
+                            "thunderstorms", 
+                            3.77, 
+                            4.51
+                        ], 
+                        [
+                            "swept", 
+                            4.51, 
+                            4.79
+                        ], 
+                        [
+                            "through", 
+                            4.79, 
+                            4.94
+                        ], 
+                        [
+                            "Colorado", 
+                            4.94, 
+                            5.62
+                        ], 
+                        [
+                            "on", 
+                            5.62, 
+                            5.74
+                        ], 
+                        [
+                            "Sunday", 
+                            5.74, 
+                            6.33
+                        ]
+                    ], 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado on Sunday ", 
+                    "word_confidence": [
+                        [
+                            "several", 
+                            1.0
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.0
+                        ], 
+                        [
+                            "touch", 
+                            0.4871600568294525
+                        ], 
+                        [
+                            "down", 
+                            0.864500880241394
+                        ], 
+                        [
+                            "as", 
+                            0.47852134704589844
+                        ], 
+                        [
+                            "a", 
+                            0.5768284797668457
+                        ], 
+                        [
+                            "line", 
+                            1.0
+                        ], 
+                        [
+                            "of", 
+                            1.0
+                        ], 
+                        [
+                            "severe", 
+                            1.0
+                        ], 
+                        [
+                            "thunderstorms", 
+                            0.7236712574958801
+                        ], 
+                        [
+                            "swept", 
+                            1.0
+                        ], 
+                        [
+                            "through", 
+                            1.0
+                        ], 
+                        [
+                            "Colorado", 
+                            0.9851064085960388
+                        ], 
+                        [
+                            "on", 
+                            0.4613231122493744
+                        ], 
+                        [
+                            "Sunday", 
+                            0.9807299971580505
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "several tornadoes touch down is a line of severe thunderstorms swept through Colorado on Sunday "
+                }, 
+                {
+                    "transcript": "several tornadoes touched down as a line of severe thunderstorms swept through Colorado on Sunday "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

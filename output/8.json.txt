@@ -1,0 +1,1253 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "or", 
+                            1.17, 
+                            1.27
+                        ]
+                    ], 
+                    "transcript": "or "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "aura", 
+                            1.17, 
+                            1.63
+                        ], 
+                        [
+                            "of", 
+                            1.63, 
+                            1.79
+                        ]
+                    ], 
+                    "transcript": "aura of "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "aura", 
+                            1.17, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.03
+                        ]
+                    ], 
+                    "transcript": "aura fire "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "aura", 
+                            1.17, 
+                            1.66
+                        ], 
+                        [
+                            "fired", 
+                            1.66, 
+                            2.08
+                        ], 
+                        [
+                            "to", 
+                            2.08, 
+                            2.23
+                        ]
+                    ], 
+                    "transcript": "aura fired to "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.55
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.58
+                        ], 
+                        [
+                            "if", 
+                            2.58, 
+                            2.81
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department if "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "official", 
+                            2.59, 
+                            3.07
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department official "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.28
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "say", 
+                            3.61, 
+                            3.83
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials say "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "it", 
+                            3.89, 
+                            4.06
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said it "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.35
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "tore", 
+                            4.38, 
+                            4.59
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister tore "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.8
+                        ], 
+                        [
+                            "a", 
+                            4.8, 
+                            4.85
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched a "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.08
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.03
+                        ], 
+                        [
+                            "near", 
+                            5.03, 
+                            5.2
+                        ], 
+                        [
+                            "the", 
+                            5.2, 
+                            5.32
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down near the "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.03
+                        ], 
+                        [
+                            "near", 
+                            5.03, 
+                            5.2
+                        ], 
+                        [
+                            "the", 
+                            5.2, 
+                            5.3
+                        ], 
+                        [
+                            "blacks", 
+                            5.3, 
+                            5.63
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down near the blacks "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.03
+                        ], 
+                        [
+                            "near", 
+                            5.03, 
+                            5.2
+                        ], 
+                        [
+                            "the", 
+                            5.2, 
+                            5.3
+                        ], 
+                        [
+                            "Blackstone", 
+                            5.3, 
+                            5.87
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down near the Blackstone "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.03
+                        ], 
+                        [
+                            "near", 
+                            5.03, 
+                            5.2
+                        ], 
+                        [
+                            "the", 
+                            5.2, 
+                            5.3
+                        ], 
+                        [
+                            "Blackstone", 
+                            5.3, 
+                            6.01
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down near the Blackstone "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.03
+                        ], 
+                        [
+                            "near", 
+                            5.03, 
+                            5.2
+                        ], 
+                        [
+                            "the", 
+                            5.2, 
+                            5.3
+                        ], 
+                        [
+                            "Blackstone", 
+                            5.3, 
+                            5.89
+                        ], 
+                        [
+                            "Country", 
+                            5.89, 
+                            6.38
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down near the Blackstone Country "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.03
+                        ], 
+                        [
+                            "near", 
+                            5.03, 
+                            5.2
+                        ], 
+                        [
+                            "the", 
+                            5.2, 
+                            5.3
+                        ], 
+                        [
+                            "Blackstone", 
+                            5.3, 
+                            5.89
+                        ], 
+                        [
+                            "Country", 
+                            5.89, 
+                            6.3
+                        ], 
+                        [
+                            "Club", 
+                            6.3, 
+                            6.65
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down near the Blackstone Country Club "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.03
+                        ], 
+                        [
+                            "near", 
+                            5.03, 
+                            5.2
+                        ], 
+                        [
+                            "the", 
+                            5.2, 
+                            5.3
+                        ], 
+                        [
+                            "Blackstone", 
+                            5.3, 
+                            5.89
+                        ], 
+                        [
+                            "Country", 
+                            5.89, 
+                            6.3
+                        ], 
+                        [
+                            "Club", 
+                            6.3, 
+                            6.75
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down near the Blackstone Country Club "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.9134625792503357, 
+                    "timestamps": [
+                        [
+                            "Aurora", 
+                            1.18, 
+                            1.66
+                        ], 
+                        [
+                            "fire", 
+                            1.66, 
+                            2.05
+                        ], 
+                        [
+                            "department", 
+                            2.05, 
+                            2.59
+                        ], 
+                        [
+                            "officials", 
+                            2.59, 
+                            3.34
+                        ], 
+                        [
+                            "said", 
+                            3.61, 
+                            3.89
+                        ], 
+                        [
+                            "a", 
+                            3.89, 
+                            3.93
+                        ], 
+                        [
+                            "twister", 
+                            3.93, 
+                            4.38
+                        ], 
+                        [
+                            "touched", 
+                            4.38, 
+                            4.75
+                        ], 
+                        [
+                            "down", 
+                            4.75, 
+                            5.03
+                        ], 
+                        [
+                            "near", 
+                            5.03, 
+                            5.2
+                        ], 
+                        [
+                            "the", 
+                            5.2, 
+                            5.3
+                        ], 
+                        [
+                            "Blackstone", 
+                            5.3, 
+                            5.89
+                        ], 
+                        [
+                            "Country", 
+                            5.89, 
+                            6.3
+                        ], 
+                        [
+                            "Club", 
+                            6.3, 
+                            6.75
+                        ]
+                    ], 
+                    "transcript": "Aurora fire department officials said a twister touched down near the Blackstone Country Club ", 
+                    "word_confidence": [
+                        [
+                            "Aurora", 
+                            0.3447898030281067
+                        ], 
+                        [
+                            "fire", 
+                            1.0
+                        ], 
+                        [
+                            "department", 
+                            1.0
+                        ], 
+                        [
+                            "officials", 
+                            0.9983039498329163
+                        ], 
+                        [
+                            "said", 
+                            0.6178122758865356
+                        ], 
+                        [
+                            "a", 
+                            0.3418142795562744
+                        ], 
+                        [
+                            "twister", 
+                            0.9836848974227905
+                        ], 
+                        [
+                            "touched", 
+                            1.0
+                        ], 
+                        [
+                            "down", 
+                            1.0
+                        ], 
+                        [
+                            "near", 
+                            1.0
+                        ], 
+                        [
+                            "the", 
+                            1.0
+                        ], 
+                        [
+                            "Blackstone", 
+                            1.0
+                        ], 
+                        [
+                            "Country", 
+                            1.0
+                        ], 
+                        [
+                            "Club", 
+                            0.995046854019165
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "aura fire department officials said a twister touched down near the Blackstone Country Club "
+                }, 
+                {
+                    "transcript": "ora fire department officials said a twister touched down near the Blackstone Country Club "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}
