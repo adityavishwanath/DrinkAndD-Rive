@@ -40,7 +40,7 @@ class TestCases():
 
     """
     Tests two possible cases using a specified input.
-    The sentence is :"I chose an encyclopaedia at the bookstore."
+    The sentence is :"I chose an encyclopedia at the bookstore."
     What we analyze:
         1) Big word - 'encyclopaedia'; the time to enunciate this word is tested, 
            and a flag is raised if speech is slow/unclear.
@@ -55,7 +55,7 @@ class TestCases():
         eBool = False
         cBool = False
         for word, start_time, end_time in timestamps_list:
-            if word == "encyclopaedia":
+            if word == "encyclopedia":
                 eBool = True
                 if (start_time - end_time_old > 1.15):
                     return_value += 1
@@ -133,32 +133,47 @@ if __name__ == '__main__':
             timestamps_list.remove([word, start_time, end_time])
     print
     print
+    print "TEST 1 - AVERAGE TIME BETWEEN WORDS."
+    print "TEST 2 - BIG WORDS AND PHONETICS."
+    print "TEST 3 - RECITATION OF THE ALPHABETS."
+    choice = raw_input("PLEASE SELECT A TEST MODULE [1, 2 or 3]: ")
 
     sum_of_flags = 0
-    if TestCases.avg_time_between_words(timestamps_list) != 0:
-        print "TEST 1: AVERAGE TIME BETWEEN WORDS - FAILED."
-        sum_of_flags += TestCases.avg_time_between_words(timestamps_list)
+    if choice == '1':
+        if TestCases.avg_time_between_words(timestamps_list) != 0:
+            print "TEST 1: AVERAGE TIME BETWEEN WORDS - FAILED."
+            sum_of_flags += TestCases.avg_time_between_words(timestamps_list)
+        else:
+            print "TEST 1: AVERAGE TIME BETWEEN WORDS - PASSED."
+        print
+    elif choice == '2':
+        if TestCases.big_words_and_phonetics_test(timestamps_list) != 0:
+            print "TEST 2: BIG WORDS AND PHONETICS - FAILED."
+            sum_of_flags += TestCases.big_words_and_phonetics_test(timestamps_list)
+        else:
+            print "TEST 2: BIG WORDS AND PHONETICS - PASSED."
+        print
+    elif choice == '3':
+        if TestCases.alphabet_test(timestamps_list) != 0:
+            print "TEST 3: RECITATION OF THE ALPHABETS - FAILED."
+            sum_of_flags += TestCases.alphabet_test(timestamps_list)
+        else:
+            print "TEST 3: RECITATION OF THE ALPHABETS - PASSED."
     else:
-        print "TEST 1: AVERAGE TIME BETWEEN WORDS - PASSED."
-    print
-    if TestCases.big_words_and_phonetics_test(timestamps_list) != 0:
-        print "TEST 2: BIG WORDS AND PHONETICS - FAILED."
-        sum_of_flags += TestCases.big_words_and_phonetics_test(timestamps_list)
-    else:
-        print "TEST 1: BIG WORDS AND PHONETICS - PASSED."
-    print
-    if TestCases.alphabet_test(timestamps_list) != 0:
-        print "TEST 3: RECITATION OF THE ALPHABETS - FAILED."
-        sum_of_flags += TestCases.alphabet_test(timestamps_list)
-    else:
-        print "TEST 3: RECITATION OF THE ALPHABETS - PASSED."    
+        print "Invalid Input!!! Program wil be terminated."    
     
+    if sum_of_flags > 0:
+        print "DRUNKENNESS DETECTED. DO NOT DRIVE."
+       
+    """
     dd_prob = sum_of_flags / 5.00; #Max 5.00 points.
     print
     print "****************************************************************"
     print "Percentage of drunkenness or drowsiness:" + str(dd_prob * 100)
     print "****************************************************************"
     print
+
     if dd_prob >= 0.65: #Threshold value
         #SEND A TEXT
         print "A TEXT MESSAGE WILL BE SENT."
+    """
