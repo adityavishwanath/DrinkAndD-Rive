@@ -60,7 +60,6 @@ for word, start_time, end_time in timestamps_list:
 end_time_old = timestamps_list[0][1]
 total_time = 0
 for word, start_time, end_time in timestamps_list:
-    print(start_time - end_time_old)
     total_time += start_time - end_time_old
     end_time_old = end_time
 
