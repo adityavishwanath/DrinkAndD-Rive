@@ -6,12 +6,12 @@
                 {
                     "timestamps": [
                         [
-                            "so", 
-                            1.0, 
-                            1.27
+                            "today", 
+                            0.71, 
+                            0.93
                         ]
                     ], 
-                    "transcript": "so "
+                    "transcript": "today "
                 }
             ], 
             "final": false
@@ -25,12 +25,12 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.53
+                            "today's", 
+                            0.71, 
+                            1.19
                         ]
                     ], 
-                    "transcript": "several "
+                    "transcript": "today's "
                 }
             ], 
             "final": false
@@ -44,17 +44,22 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "torn", 
-                            1.52, 
-                            1.79
+                            "is", 
+                            1.05, 
+                            1.32
+                        ], 
+                        [
+                            "a", 
+                            1.32, 
+                            1.43
                         ]
                     ], 
-                    "transcript": "several torn "
+                    "transcript": "today is a "
                 }
             ], 
             "final": false
@@ -68,17 +73,110 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornado", 
-                            1.52, 
+                            "is", 
+                            1.05, 
+                            1.32
+                        ], 
+                        [
+                            "a", 
+                            1.32, 
+                            1.39
+                        ], 
+                        [
+                            "very", 
+                            1.39, 
+                            1.69
+                        ]
+                    ], 
+                    "transcript": "today is a very "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.32
+                        ], 
+                        [
+                            "a", 
+                            1.32, 
+                            1.41
+                        ], 
+                        [
+                            "bird", 
+                            1.41, 
+                            1.72
+                        ], 
+                        [
+                            "there", 
+                            1.72, 
+                            1.95
+                        ]
+                    ], 
+                    "transcript": "today is a bird there "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
                             2.03
+                        ], 
+                        [
+                            "mayor", 
+                            2.03, 
+                            2.21
                         ]
                     ], 
-                    "transcript": "several tornado "
+                    "transcript": "today is the birthday of mayor "
                 }
             ], 
             "final": false
@@ -92,22 +190,578 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.42
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            2.71
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            2.94
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.23
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.29
+                        ], 
+                        [
+                            "or", 
+                            3.29, 
+                            3.49
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the or "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.75
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            3.99
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only person "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only person "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.51
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only person ever "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
                         ], 
                         [
                             "to", 
-                            2.15, 
-                            2.29
+                            4.62, 
+                            4.77
                         ]
                     ], 
-                    "transcript": "several tornadoes to "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to "
                 }
             ], 
             "final": false
@@ -121,154 +775,72 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touched", 
-                            2.15, 
-                            2.55
-                        ]
-                    ], 
-                    "transcript": "several tornadoes touched "
-                }
-            ], 
-            "final": false
-        }
-    ]
-}{
-    "result_index": 0, 
-    "results": [
-        {
-            "alternatives": [
-                {
-                    "timestamps": [
-                        [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "of", 
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ]
-                    ], 
-                    "transcript": "several tornadoes touch down "
-                }
-            ], 
-            "final": false
-        }
-    ]
-}{
-    "result_index": 0, 
-    "results": [
-        {
-            "alternatives": [
-                {
-                    "timestamps": [
-                        [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "Mary", 
+                            2.03, 
+                            2.38
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "Carey", 
+                            2.38, 
+                            3.0
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
-                        ], 
-                        [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "law", 
-                            2.99, 
-                            3.07
-                        ]
-                    ], 
-                    "transcript": "several tornadoes touch down as a law "
-                }
-            ], 
-            "final": false
-        }
-    ]
-}{
-    "result_index": 0, 
-    "results": [
-        {
-            "alternatives": [
-                {
-                    "timestamps": [
-                        [
-                            "several", 
-                            1.0, 
-                            1.52
-                        ], 
-                        [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
-                        ], 
-                        [
-                            "touch", 
-                            2.15, 
-                            2.5
-                        ], 
-                        [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
+                            "the", 
+                            3.11, 
                             3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.03
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win "
                 }
             ], 
             "final": false
@@ -282,52 +854,77 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
                             "of", 
-                            3.29, 
-                            3.4
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "so", 
-                            3.4, 
-                            3.57
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.27
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line of so "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two "
                 }
             ], 
             "final": false
@@ -341,52 +938,82 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
                             "of", 
-                            3.29, 
-                            3.4
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "severe", 
-                            3.4, 
-                            3.83
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "to", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "know", 
+                            5.32, 
+                            5.53
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line of severe "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win to know "
                 }
             ], 
             "final": false
@@ -400,52 +1027,82 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
                             "of", 
-                            3.29, 
-                            3.4
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "severe", 
-                            3.4, 
-                            3.88
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.76
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line of severe "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble "
                 }
             ], 
             "final": false
@@ -459,57 +1116,87 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
                             "of", 
-                            3.29, 
-                            3.4
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "severe", 
-                            3.4, 
-                            3.77
+                            "Mary", 
+                            2.03, 
+                            2.38
                         ], 
                         [
-                            "thunderstorms", 
-                            3.77, 
-                            4.56
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prize", 
+                            5.72, 
+                            6.05
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prize "
                 }
             ], 
             "final": false
@@ -523,62 +1210,92 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
                             "of", 
-                            3.29, 
-                            3.4
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "severe", 
-                            3.4, 
-                            3.77
+                            "Mary", 
+                            2.03, 
+                            2.38
                         ], 
                         [
-                            "thunderstorms", 
-                            3.77, 
-                            4.51
+                            "Carey", 
+                            2.38, 
+                            3.0
                         ], 
                         [
-                            "swept", 
-                            4.51, 
-                            4.85
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prizes", 
+                            5.72, 
+                            6.24
+                        ], 
+                        [
+                            "a", 
+                            6.24, 
+                            6.31
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes a "
                 }
             ], 
             "final": false
@@ -592,403 +1309,97 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
                             "of", 
-                            3.29, 
-                            3.4
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "severe", 
-                            3.4, 
-                            3.77
+                            "Mary", 
+                            2.03, 
+                            2.38
                         ], 
                         [
-                            "thunderstorms", 
-                            3.77, 
-                            4.51
+                            "Carey", 
+                            2.38, 
+                            3.0
                         ], 
                         [
-                            "swept", 
-                            4.51, 
-                            4.79
+                            "the", 
+                            3.11, 
+                            3.31
                         ], 
                         [
-                            "through", 
-                            4.79, 
-                            4.94
+                            "only", 
+                            3.31, 
+                            3.71
                         ], 
                         [
-                            "co", 
-                            4.94, 
-                            5.11
-                        ]
-                    ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through co "
-                }
-            ], 
-            "final": false
-        }
-    ]
-}{
-    "result_index": 0, 
-    "results": [
-        {
-            "alternatives": [
-                {
-                    "timestamps": [
-                        [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "person", 
+                            3.71, 
+                            4.22
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "ever", 
+                            4.22, 
+                            4.62
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "to", 
+                            4.62, 
+                            4.84
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
+                            "win", 
+                            4.84, 
+                            5.1
                         ], 
                         [
-                            "as", 
-                            2.81, 
-                            2.93
+                            "two", 
+                            5.1, 
+                            5.32
                         ], 
                         [
-                            "a", 
-                            2.93, 
-                            2.99
+                            "noble", 
+                            5.32, 
+                            5.72
                         ], 
                         [
-                            "line", 
-                            2.99, 
-                            3.29
-                        ], 
-                        [
-                            "of", 
-                            3.29, 
-                            3.4
-                        ], 
-                        [
-                            "severe", 
-                            3.4, 
-                            3.77
-                        ], 
-                        [
-                            "thunderstorms", 
-                            3.77, 
-                            4.51
-                        ], 
-                        [
-                            "swept", 
-                            4.51, 
-                            4.79
-                        ], 
-                        [
-                            "through", 
-                            4.79, 
-                            4.94
-                        ], 
-                        [
-                            "cholera", 
-                            4.94, 
-                            5.37
-                        ]
-                    ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through cholera "
-                }
-            ], 
-            "final": false
-        }
-    ]
-}{
-    "result_index": 0, 
-    "results": [
-        {
-            "alternatives": [
-                {
-                    "timestamps": [
-                        [
-                            "several", 
-                            1.0, 
-                            1.52
-                        ], 
-                        [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
-                        ], 
-                        [
-                            "touch", 
-                            2.15, 
-                            2.5
-                        ], 
-                        [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
-                        ], 
-                        [
-                            "of", 
-                            3.29, 
-                            3.4
-                        ], 
-                        [
-                            "severe", 
-                            3.4, 
-                            3.77
-                        ], 
-                        [
-                            "thunderstorms", 
-                            3.77, 
-                            4.51
-                        ], 
-                        [
-                            "swept", 
-                            4.51, 
-                            4.79
-                        ], 
-                        [
-                            "through", 
-                            4.79, 
-                            4.94
-                        ], 
-                        [
-                            "Colorado", 
-                            4.94, 
-                            5.63
-                        ]
-                    ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado "
-                }
-            ], 
-            "final": false
-        }
-    ]
-}{
-    "result_index": 0, 
-    "results": [
-        {
-            "alternatives": [
-                {
-                    "timestamps": [
-                        [
-                            "several", 
-                            1.0, 
-                            1.52
-                        ], 
-                        [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
-                        ], 
-                        [
-                            "touch", 
-                            2.15, 
-                            2.5
-                        ], 
-                        [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
-                        ], 
-                        [
-                            "of", 
-                            3.29, 
-                            3.4
-                        ], 
-                        [
-                            "severe", 
-                            3.4, 
-                            3.77
-                        ], 
-                        [
-                            "thunderstorms", 
-                            3.77, 
-                            4.51
-                        ], 
-                        [
-                            "swept", 
-                            4.51, 
-                            4.79
-                        ], 
-                        [
-                            "through", 
-                            4.79, 
-                            4.94
-                        ], 
-                        [
-                            "Colorado", 
-                            4.94, 
-                            5.57
-                        ], 
-                        [
-                            "once", 
-                            5.57, 
-                            5.87
-                        ]
-                    ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado once "
-                }
-            ], 
-            "final": false
-        }
-    ]
-}{
-    "result_index": 0, 
-    "results": [
-        {
-            "alternatives": [
-                {
-                    "timestamps": [
-                        [
-                            "several", 
-                            1.0, 
-                            1.52
-                        ], 
-                        [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
-                        ], 
-                        [
-                            "touch", 
-                            2.15, 
-                            2.5
-                        ], 
-                        [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
-                        ], 
-                        [
-                            "of", 
-                            3.29, 
-                            3.4
-                        ], 
-                        [
-                            "severe", 
-                            3.4, 
-                            3.77
-                        ], 
-                        [
-                            "thunderstorms", 
-                            3.77, 
-                            4.51
-                        ], 
-                        [
-                            "swept", 
-                            4.51, 
-                            4.79
-                        ], 
-                        [
-                            "through", 
-                            4.79, 
-                            4.94
-                        ], 
-                        [
-                            "Colorado", 
-                            4.94, 
-                            5.63
+                            "prizes", 
+                            5.72, 
+                            6.24
                         ], 
                         [
                             "and", 
-                            5.63, 
-                            5.78
+                            6.24, 
+                            6.4
                         ], 
                         [
-                            "Sunday", 
-                            5.78, 
-                            6.13
+                            "to", 
+                            6.4, 
+                            6.55
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado and Sunday "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes and to "
                 }
             ], 
             "final": false
@@ -1002,82 +1413,102 @@
                 {
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
                             "of", 
-                            3.29, 
-                            3.4
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "severe", 
-                            3.4, 
-                            3.77
+                            "Mary", 
+                            2.03, 
+                            2.38
                         ], 
                         [
-                            "thunderstorms", 
-                            3.77, 
-                            4.51
+                            "Carey", 
+                            2.38, 
+                            3.0
                         ], 
                         [
-                            "swept", 
-                            4.51, 
-                            4.79
+                            "the", 
+                            3.11, 
+                            3.31
                         ], 
                         [
-                            "through", 
-                            4.79, 
-                            4.94
+                            "only", 
+                            3.31, 
+                            3.71
                         ], 
                         [
-                            "Colorado", 
-                            4.94, 
-                            5.62
+                            "person", 
+                            3.71, 
+                            4.22
                         ], 
                         [
-                            "on", 
-                            5.62, 
-                            5.74
+                            "ever", 
+                            4.22, 
+                            4.62
                         ], 
                         [
-                            "Sunday", 
-                            5.74, 
-                            6.33
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prizes", 
+                            5.72, 
+                            6.24
+                        ], 
+                        [
+                            "and", 
+                            6.24, 
+                            6.4
+                        ], 
+                        [
+                            "to", 
+                            6.4, 
+                            6.54
+                        ], 
+                        [
+                            "set", 
+                            6.54, 
+                            6.81
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado on Sunday "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes and to set "
                 }
             ], 
             "final": false
@@ -1089,112 +1520,730 @@
         {
             "alternatives": [
                 {
-                    "confidence": 0.8874180912971497, 
                     "timestamps": [
                         [
-                            "several", 
-                            1.0, 
-                            1.52
+                            "today", 
+                            0.71, 
+                            1.05
                         ], 
                         [
-                            "tornadoes", 
-                            1.52, 
-                            2.15
+                            "is", 
+                            1.05, 
+                            1.28
                         ], 
                         [
-                            "touch", 
-                            2.15, 
-                            2.5
+                            "the", 
+                            1.28, 
+                            1.42
                         ], 
                         [
-                            "down", 
-                            2.5, 
-                            2.81
-                        ], 
-                        [
-                            "as", 
-                            2.81, 
-                            2.93
-                        ], 
-                        [
-                            "a", 
-                            2.93, 
-                            2.99
-                        ], 
-                        [
-                            "line", 
-                            2.99, 
-                            3.29
+                            "birthday", 
+                            1.42, 
+                            1.85
                         ], 
                         [
                             "of", 
-                            3.29, 
-                            3.4
+                            1.85, 
+                            2.03
                         ], 
                         [
-                            "severe", 
-                            3.4, 
-                            3.77
+                            "Mary", 
+                            2.03, 
+                            2.38
                         ], 
                         [
-                            "thunderstorms", 
-                            3.77, 
-                            4.51
+                            "Carey", 
+                            2.38, 
+                            3.0
                         ], 
                         [
-                            "swept", 
-                            4.51, 
-                            4.79
+                            "the", 
+                            3.11, 
+                            3.31
                         ], 
                         [
-                            "through", 
-                            4.79, 
-                            4.94
+                            "only", 
+                            3.31, 
+                            3.71
                         ], 
                         [
-                            "Colorado", 
-                            4.94, 
-                            5.62
+                            "person", 
+                            3.71, 
+                            4.22
                         ], 
                         [
-                            "on", 
-                            5.62, 
-                            5.74
+                            "ever", 
+                            4.22, 
+                            4.62
                         ], 
                         [
-                            "Sunday", 
-                            5.74, 
-                            6.33
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prizes", 
+                            5.72, 
+                            6.25
+                        ], 
+                        [
+                            "into", 
+                            6.25, 
+                            6.54
+                        ], 
+                        [
+                            "separate", 
+                            6.54, 
+                            6.98
+                        ], 
+                        [
+                            "for", 
+                            6.98, 
+                            7.07
                         ]
                     ], 
-                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado on Sunday ", 
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes into separate for "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prizes", 
+                            5.72, 
+                            6.24
+                        ], 
+                        [
+                            "and", 
+                            6.24, 
+                            6.4
+                        ], 
+                        [
+                            "two", 
+                            6.4, 
+                            6.54
+                        ], 
+                        [
+                            "separate", 
+                            6.54, 
+                            6.98
+                        ], 
+                        [
+                            "fields", 
+                            6.98, 
+                            7.33
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes and two separate fields "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prizes", 
+                            5.72, 
+                            6.24
+                        ], 
+                        [
+                            "and", 
+                            6.24, 
+                            6.4
+                        ], 
+                        [
+                            "two", 
+                            6.4, 
+                            6.54
+                        ], 
+                        [
+                            "separate", 
+                            6.54, 
+                            6.98
+                        ], 
+                        [
+                            "fields", 
+                            6.98, 
+                            7.31
+                        ], 
+                        [
+                            "of", 
+                            7.31, 
+                            7.45
+                        ], 
+                        [
+                            "sci", 
+                            7.45, 
+                            7.59
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes and two separate fields of sci "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prizes", 
+                            5.72, 
+                            6.24
+                        ], 
+                        [
+                            "and", 
+                            6.24, 
+                            6.4
+                        ], 
+                        [
+                            "two", 
+                            6.4, 
+                            6.54
+                        ], 
+                        [
+                            "separate", 
+                            6.54, 
+                            6.98
+                        ], 
+                        [
+                            "fields", 
+                            6.98, 
+                            7.31
+                        ], 
+                        [
+                            "of", 
+                            7.31, 
+                            7.45
+                        ], 
+                        [
+                            "science", 
+                            7.45, 
+                            7.83
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes and two separate fields of science "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prizes", 
+                            5.72, 
+                            6.24
+                        ], 
+                        [
+                            "and", 
+                            6.24, 
+                            6.4
+                        ], 
+                        [
+                            "two", 
+                            6.4, 
+                            6.54
+                        ], 
+                        [
+                            "separate", 
+                            6.54, 
+                            6.98
+                        ], 
+                        [
+                            "fields", 
+                            6.98, 
+                            7.31
+                        ], 
+                        [
+                            "of", 
+                            7.31, 
+                            7.45
+                        ], 
+                        [
+                            "science", 
+                            7.45, 
+                            8.06
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes and two separate fields of science "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.8327167630195618, 
+                    "timestamps": [
+                        [
+                            "today", 
+                            0.71, 
+                            1.05
+                        ], 
+                        [
+                            "is", 
+                            1.05, 
+                            1.28
+                        ], 
+                        [
+                            "the", 
+                            1.28, 
+                            1.42
+                        ], 
+                        [
+                            "birthday", 
+                            1.42, 
+                            1.85
+                        ], 
+                        [
+                            "of", 
+                            1.85, 
+                            2.03
+                        ], 
+                        [
+                            "Mary", 
+                            2.03, 
+                            2.38
+                        ], 
+                        [
+                            "Carey", 
+                            2.38, 
+                            3.0
+                        ], 
+                        [
+                            "the", 
+                            3.11, 
+                            3.31
+                        ], 
+                        [
+                            "only", 
+                            3.31, 
+                            3.71
+                        ], 
+                        [
+                            "person", 
+                            3.71, 
+                            4.22
+                        ], 
+                        [
+                            "ever", 
+                            4.22, 
+                            4.62
+                        ], 
+                        [
+                            "to", 
+                            4.62, 
+                            4.84
+                        ], 
+                        [
+                            "win", 
+                            4.84, 
+                            5.1
+                        ], 
+                        [
+                            "two", 
+                            5.1, 
+                            5.32
+                        ], 
+                        [
+                            "noble", 
+                            5.32, 
+                            5.72
+                        ], 
+                        [
+                            "prizes", 
+                            5.72, 
+                            6.24
+                        ], 
+                        [
+                            "and", 
+                            6.24, 
+                            6.4
+                        ], 
+                        [
+                            "two", 
+                            6.4, 
+                            6.54
+                        ], 
+                        [
+                            "separate", 
+                            6.54, 
+                            6.98
+                        ], 
+                        [
+                            "fields", 
+                            6.98, 
+                            7.31
+                        ], 
+                        [
+                            "of", 
+                            7.31, 
+                            7.45
+                        ], 
+                        [
+                            "science", 
+                            7.45, 
+                            8.14
+                        ]
+                    ], 
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes and two separate fields of science ", 
                     "word_confidence": [
                         [
-                            "several", 
-                            1.0
+                            "today", 
+                            0.7653071880340576
                         ], 
                         [
-                            "tornadoes", 
-                            1.0
+                            "is", 
+                            0.7652845978736877
                         ], 
                         [
-                            "touch", 
-                            0.4871600568294525
+                            "the", 
+                            0.7999308109283447
                         ], 
                         [
-                            "down", 
-                            0.864500880241394
-                        ], 
-                        [
-                            "as", 
-                            0.47852134704589844
-                        ], 
-                        [
-                            "a", 
-                            0.5768284797668457
-                        ], 
-                        [
-                            "line", 
+                            "birthday", 
                             1.0
                         ], 
                         [
@@ -1202,40 +2251,80 @@
                             1.0
                         ], 
                         [
-                            "severe", 
+                            "Mary", 
+                            0.9999967217445374
+                        ], 
+                        [
+                            "Carey", 
+                            0.3995923101902008
+                        ], 
+                        [
+                            "the", 
                             1.0
                         ], 
                         [
-                            "thunderstorms", 
-                            0.7236712574958801
-                        ], 
-                        [
-                            "swept", 
+                            "only", 
                             1.0
                         ], 
                         [
-                            "through", 
+                            "person", 
                             1.0
                         ], 
                         [
-                            "Colorado", 
-                            0.9851064085960388
+                            "ever", 
+                            0.9627558588981628
                         ], 
                         [
-                            "on", 
-                            0.4613231122493744
+                            "to", 
+                            1.0
                         ], 
                         [
-                            "Sunday", 
-                            0.9807299971580505
+                            "win", 
+                            0.4321938157081604
+                        ], 
+                        [
+                            "two", 
+                            0.6788579821586609
+                        ], 
+                        [
+                            "noble", 
+                            0.8726167678833008
+                        ], 
+                        [
+                            "prizes", 
+                            0.8112644553184509
+                        ], 
+                        [
+                            "and", 
+                            0.41151121258735657
+                        ], 
+                        [
+                            "two", 
+                            0.6011514663696289
+                        ], 
+                        [
+                            "separate", 
+                            1.0
+                        ], 
+                        [
+                            "fields", 
+                            1.0
+                        ], 
+                        [
+                            "of", 
+                            1.0
+                        ], 
+                        [
+                            "science", 
+                            0.770674467086792
                         ]
                     ]
                 }, 
                 {
-                    "transcript": "several tornadoes touch down is a line of severe thunderstorms swept through Colorado on Sunday "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes into separate fields of science "
                 }, 
                 {
-                    "transcript": "several tornadoes touched down as a line of severe thunderstorms swept through Colorado on Sunday "
+                    "transcript": "today is the birthday of Mary Carey the only person ever to win two noble prizes in two separate fields of science "
                 }
             ], 
             "final": true

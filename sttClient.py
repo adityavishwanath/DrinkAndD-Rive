@@ -330,3 +330,6 @@ if __name__ == '__main__':
    f.close()
    print "successful sessions: ", successful, " (", len(summary)-successful, " errors) (" + str(emptyHypotheses) + " empty hypotheses)"
 
+   #Initiate the parsing
+   os.system("python parser.py")
+

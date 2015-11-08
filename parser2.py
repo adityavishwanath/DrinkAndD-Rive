@@ -2,9 +2,14 @@ import json
 import argparse
 from json import JSONDecoder
 import re
+import os
 
 FLAGS = re.VERBOSE | re.MULTILINE | re.DOTALL
 WHITESPACE = re.compile(r'[ \t\n\r]*', FLAGS)
+
+"""
+SENTENCE: I **chose** an **encyclopedia** at the bookstore.
+"""
 
 class ConcatJSONDecoder(json.JSONDecoder):
     def decode(self, s, _w=WHITESPACE.match):
@@ -18,8 +23,11 @@ class ConcatJSONDecoder(json.JSONDecoder):
             objs.append(obj)
         return objs
 
+script_dir = os.path.dirname(__file__)
+rel_path = "output/0.json.txt"
+abs_file_path = os.path.join(script_dir, rel_path)
 
-f = open('9.json.txt', 'r') #file name will change!
+f = open(abs_file_path, 'r') #file name will change!
 text = f.read()
 f.close()
 
@@ -40,11 +48,6 @@ timestamps_list = text_json[len(text_json) - 1]['results'][0]['alternatives'][0]
 confidence_list = text_json[len(text_json) - 1]['results'][0]['alternatives'][0]['word_confidence']
 #print (confidence_list)
 
-"""
-TODO:
-1. Eliminate the words from timestamps_list that have a confidence value (which you can get from confidence_list) lower than 0.65 (our threshold)
-2. Find the average time difference between a word and the next word. (start_time(word n+1) - end_time(word n), for all n words in the new timestamps_list)
-"""
 for word, confidence in confidence_list:
     if confidence < 0.65:
         confidence_list.remove([word, confidence])
@@ -63,4 +66,6 @@ for word, start_time, end_time in timestamps_list:
     total_time += start_time - end_time_old
     end_time_old = end_time
 
-avg_time = total_time/len(timestamps_list)
+avg_time = total_time/len(timestamps_list) #time between words
+
+#NOW CHECK FOR TIME SPENT ON EACH WORD.
