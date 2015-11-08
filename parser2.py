@@ -24,7 +24,7 @@ class ConcatJSONDecoder(json.JSONDecoder):
         return objs
 
 script_dir = os.path.dirname(__file__)
-rel_path = "output/0.json.txt"
+rel_path = "output/test.txt"
 abs_file_path = os.path.join(script_dir, rel_path)
 
 f = open(abs_file_path, 'r') #file name will change!
@@ -67,5 +67,26 @@ for word, start_time, end_time in timestamps_list:
     end_time_old = end_time
 
 avg_time = total_time/len(timestamps_list) #time between words
+if (avg_time > 0.15):
+    print "You're drunk"
 
 #NOW CHECK FOR TIME SPENT ON EACH WORD.
+end_time_old = timestamps_list[0][1]
+eBool = False
+cBool = False
+for word, start_time, end_time in timestamps_list:
+    print word
+    if word == "encyclopaedia":
+        eBool = True
+        if (start_time - end_time_old > 0.15):
+            print "Bruh, you're drunk1"
+            break
+    if word == "chose":
+        cBool = True
+        if (start_time - end_time_old > 0.15):
+            print "Bruh, you're drunk2"
+            break
+    end_time_old = end_time
+if not (eBool and cBool):
+    print "Bruh, you're drunk3"
+
